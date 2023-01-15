@@ -1,5 +1,5 @@
 # speedyy
-Testing your network speed without opening Browser ;)
+Testing your Network speed without opening Browser ;)
 
 ## Downloading requirements
 ```
